@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portolio_web/static/css/main.0dcb3616.css",
-    "main.js": "/portolio_web/static/js/main.18454c0f.js",
+    "main.js": "/portolio_web/static/js/main.4ea53dab.js",
     "static/media/sheriff.png": "/portolio_web/static/media/sheriff.f399734700b998fd5a35.png",
     "static/media/sheriff2.jpeg": "/portolio_web/static/media/sheriff2.9da3352e62245f8fe24e.jpeg",
     "static/media/p3.jpg": "/portolio_web/static/media/p3.cbfa6ae06ba4b418fc21.jpg",
@@ -16,10 +16,10 @@
     "static/media/tm3.jpg": "/portolio_web/static/media/tm3.516706e2803979e07a4d.jpg",
     "index.html": "/portolio_web/index.html",
     "main.0dcb3616.css.map": "/portolio_web/static/css/main.0dcb3616.css.map",
-    "main.18454c0f.js.map": "/portolio_web/static/js/main.18454c0f.js.map"
+    "main.4ea53dab.js.map": "/portolio_web/static/js/main.4ea53dab.js.map"
   },
   "entrypoints": [
     "static/css/main.0dcb3616.css",
-    "static/js/main.18454c0f.js"
+    "static/js/main.4ea53dab.js"
   ]
 }
